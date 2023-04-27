@@ -1,0 +1,18 @@
+Story:
+It's a regular night inside your home, you're getting ready for bed. You just fell asleep... Into a Lucid Dream
+now your unfortately stuck and have to find a way to get out of the Lucid Dream. You wake up.. It's your childhood house
+from when you were a kid.. But why are you here and why is this happening? You have no idea. Now it's you're job to find a way out of the house
+and escape the Lucid Dream.. 
+
+Goal:
+Escape the Lucid Dream, Open the 4 Digit Key Code Door to get the key to open the locked door and escape.. Hopefully
+
+1 Lock i will have:
+A 4 Digit Key Code lock
+
+1 Puzzle I will have:
+Each room will have a letter hidden inside of them, it's you're job to combine them and try to crack the code
+and open the 4 Digit Key Code Lock.
+
+1 Sound I will use:
+Door Opening Sound
