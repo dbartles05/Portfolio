@@ -1,0 +1,20 @@
+{
+	"format_version": "1.8.0",
+	"animations": {
+		"animation.model.new": {
+			"animation_length": 1,
+			"bones": {
+				"Liquid": {
+					"position": {
+						"0.0": [0, 0, 0],
+						"1.0": [0, -234, 0]
+					},
+					"scale": {
+						"0.0": [1, 1, 1],
+						"1.0": [1, 27, 1]
+					}
+				}
+			}
+		}
+	}
+}
